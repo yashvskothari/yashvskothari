@@ -49,6 +49,12 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
 ## GitHub Stats
 
 <p align="center">
