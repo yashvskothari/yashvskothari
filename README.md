@@ -54,12 +54,6 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 
 ---
-## Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yashvskothari/yashvskothari/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
 ## GitHub Stats
 
 <p align="center">
@@ -91,9 +85,7 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 </p>
 
 ---
-## Visit Counter
-<img src="https://komarev.com/ghpvc/?username=yashvskotharistyle=for-the-badge" />
----
+
 ## Connect With Me
 
 - GitHub: https://github.com/yashvskothari
