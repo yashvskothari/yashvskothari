@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yashvskothari/yashvskothari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yash Kothari 👋
 
-Here are some ideas to get you started:
+### Data Structures and algorithms • Web Development • PowerBI Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving DSA problems, building interactive PowerBI dashboards, modern web applications, and transforming raw data into meaningful insights.
+
+</div>
+
+---
+
+## About Me
+
+-  Computer Science Student
+- Building responsive web applications using React & TypeScript
+- Learning Problem Solving
+- Learning Data Analytics & Business Intelligence
+- Experienced with Power BI, SQL, and dashboard design
+-  Currently learning AI integrations, advanced React, and backend development
+-  Goal: Build impactful software that combines data with beautiful user experiences
+
+---
+
+
+## Connect With Me
+
+- GitHub: https://github.com/yashvskothari
+- LinkedIn: https://linkedin.com/in/yashvardhansinghkothari
+- Gmail: yashkotjpr@gmail.com
+
+---
+
+> "Keep building. Keep learning. Keep improving."
