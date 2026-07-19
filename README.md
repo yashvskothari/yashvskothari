@@ -21,6 +21,34 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 -  Goal: Build impactful software that combines data with beautiful user experiences
 
 ---
+
+## Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+
+### Data Analytics
+
+![Power BI](https://img.shields.io/badge/PowerBI-black?style=for-the-badge&logo=powerbi)
+![MS SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver)
+![Excel](https://img.shields.io/badge/Excel-black?style=for-the-badge&logo=microsoftexcel)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+
+---
 ## GitHub Stats
 
 <p align="center">
