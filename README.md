@@ -23,7 +23,7 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;Frontend+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Problem+Solver;Web+Developer;Business+Intelligence+Developer;Always+Learning+Something+New" />
 </p>
 
 ---
