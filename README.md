@@ -21,6 +21,35 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 -  Goal: Build impactful software that combines data with beautiful user experiences
 
 ---
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashvskothari&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvskothari&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=yashvskothari&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashvskothari&theme=github-dark&hide_border=true"/>
+
+</p>
 
 
 ## Connect With Me
