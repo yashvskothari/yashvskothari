@@ -77,6 +77,7 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 
 ## Connect With Me
 
+- Personal Portfolio: https://portfolio-yashvardhan-kothari.vercel.app/
 - GitHub: https://github.com/yashvskothari
 - LinkedIn: https://linkedin.com/in/yashvardhansinghkothari
 - Gmail: yashkotjpr@gmail.com
