@@ -31,7 +31,7 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
 
@@ -51,7 +51,7 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)](https://chatgpt.com/share/6a60a1fc-ed28-83ee-b3f5-45bfcebf5a66)
 
 ---
 
