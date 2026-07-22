@@ -21,7 +21,7 @@ Problem solver • Web Developer • Data Analysis
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/images/matrix-lang.svg" />
+<img align="right" width="300" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center" />
 
 - 🎓 Computer Science student focused on software development and problem-solving
 - 💻 Building responsive web applications using **React, TypeScript, and modern frontend tools**
@@ -112,7 +112,7 @@ Problem solver • Web Developer • Data Analysis
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashvskothari&theme=react&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=yashvskothari&theme=react&hide_border=true" />
 
 </div>
 
@@ -136,7 +136,7 @@ Problem solver • Web Developer • Data Analysis
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yashvskothari/yashvskothari/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/yashvskothari/yashvskothari/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
