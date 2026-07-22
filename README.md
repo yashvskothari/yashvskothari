@@ -31,36 +31,38 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 
 ### Languages
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=ffffff" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" />
+</p>
 
 ### Data Analytics
 
-![Power BI](https://img.shields.io/badge/PowerBI-black?style=for-the-badge&logo=powerbi)
-![MS SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=for-the-badge&logo=microsoftsqlserver)
-![Excel](https://img.shields.io/badge/Excel-black?style=for-the-badge&logo=microsoftexcel)
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=ffffff" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)](https://chatgpt.com/share/6a60a1fc-ed28-83ee-b3f5-45bfcebf5a66)
-
----
-
-## GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yashvskothari&theme=github-dark&hide_border=true"/>
-
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
 </p>
 
 ---
