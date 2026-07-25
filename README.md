@@ -73,14 +73,9 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yashvskothari/yashvskothari/main/github-metrics.svg" alt="GitHub Metrics">
-</p>
-
 
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/yashvskothari/yashvskothari/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 </p>
@@ -96,4 +91,10 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 
 ---
 
-> "Keep building. Keep learning. Keep improving."
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashvskothari/yashvskothari/main/github-metrics.svg" alt="GitHub Metrics">
+</p>
+
+
+
