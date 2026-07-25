@@ -17,7 +17,7 @@ jobs:
         with:
           filename: github-metrics.svg
 
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics_token }}
 
           user: yashvskothari
 
