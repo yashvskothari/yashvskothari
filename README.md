@@ -75,6 +75,13 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashvskothari/yashvskothari/main/github-metrics.svg" alt="GitHub Metrics">
+</p>
+
+
+---
+
 ## Connect With Me
 
 - Personal Portfolio: https://portfolio-yashvardhan-kothari.vercel.app/
