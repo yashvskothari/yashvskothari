@@ -81,6 +81,11 @@ I enjoy solving DSA problems, building interactive PowerBI dashboards, modern we
 
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashvskothari/yashvskothari/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+</p>
+
+---
 
 ## Connect With Me
 
