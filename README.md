@@ -89,10 +89,10 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 
 #  Currently Working On
 
-- 🤖 Flux AI — AI-powered Chat Application
-- 🌐 Modern React + TypeScript Projects
-- 📊 Interactive Power BI Dashboards
-- 🧩 Improving Data Structures & Algorithms
+-  Improving Data Structures & Algorithms
+-  Modern React + TypeScript Projects
+-  Backend Development
+-  Interactive Power BI Dashboards
 
 ---
 
@@ -100,10 +100,10 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 
 | Project | Description |
 |----------|-------------|
-| 🤖 **Flux AI** | AI-powered chatbot with document upload, image understanding, streaming responses, authentication, and modern UI |
-| 📊 **Loan Analysis Dashboard** | Business Intelligence dashboard built using Power BI and SQL Server |
-| 🛒 **Blinkit Dashboard** | Interactive sales analytics dashboard using Power BI |
-| 🌍 **Country Comparison Dashboard** | Comparative dashboard analyzing development indicators across countries |
+|  **Flux AI** | AI-powered chatbot with document upload, image understanding, streaming responses, authentication, and modern UI |
+|  **Loan Analysis Dashboard** | Business Intelligence dashboard built using Power BI and SQL Server |
+|  **Blinkit Dashboard** | Interactive sales analytics dashboard using Power BI |
+|  **Country Comparison Dashboard** | Comparative dashboard analyzing development indicators across countries |
 
 ---
 
@@ -149,7 +149,7 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
