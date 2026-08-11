@@ -44,27 +44,26 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 
 ## Languages
 
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![SQL](https://skillicons.dev/icons?i=mysql)
 
 ---
 
 ## Frontend
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
+![React](https://skillicons.dev/icons?i=react)
+![Vite](https://skillicons.dev/icons?i=vite)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 
 ---
 
 ## Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-black?style=for-the-badge)
-![Alembic](https://img.shields.io/badge/Alembic-black?style=for-the-badge)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<img src="https://cdn.simpleicons.org/sqlalchemy" height="55" alt="SQLAlchemy" />
 
 ---
 
@@ -78,12 +77,12 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 
 ## Tools
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
-![Clerk](https://img.shields.io/badge/Clerk-black?style=for-the-badge)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+<img src="https://cdn.simpleicons.org/render" alt="Render" height="45" style="background-color:#161B22;padding:6px;border-radius:10px;border:1px solid #30363D;">
+<img src="https://cdn.simpleicons.org/clerk" height="45" alt="Clerk" />
 
 ---
 
@@ -104,18 +103,6 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 |  **Loan Analysis Dashboard** | Business Intelligence dashboard built using Power BI and SQL Server |
 |  **Blinkit Dashboard** | Interactive sales analytics dashboard using Power BI |
 |  **Country Comparison Dashboard** | Comparative dashboard analyzing development indicators across countries |
-
----
-
-#  GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashvskothari&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvskothari&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -181,7 +168,20 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 
 <div align="center">
 
-###  Thanks for visiting my profile!
+
+---
+
+<div align="center">
+
+###  Thanks for visiting!
+
+If you enjoyed my projects,
+
+consider leaving a ⭐ on the repositories.
+
+Have a great day! 
+
+</div>
 
 If you like my work, consider giving a ⭐ to my repositories.
 
