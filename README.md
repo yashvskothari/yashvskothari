@@ -123,7 +123,7 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=yashvskothari&theme=github-dark&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/yashvskothari/yashvskothari/main/github-streak.svg" alt="GitHub Streak"/>
 
 </p>
 
