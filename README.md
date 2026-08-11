@@ -110,7 +110,6 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=yashvskothari&theme=github-dark-blue&hide_border=true&border_radius=15&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashvskothari&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 ---
 
@@ -118,7 +117,7 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashvskothari&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashvskothari&theme=merko&hide_border=true"/>
 
 </p>
 
