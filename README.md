@@ -119,14 +119,12 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 
 ---
 
-#  GitHub Streak
+# GitHub Streak
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/yashvskothari/yashvskothari/main/github-streak.svg" alt="GitHub Streak"/>
-
+  <img width="49%" src="https://streak-stats.demolab.com?user=yashvskothari&theme=github-dark-blue&hide_border=true&border_radius=15&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashvskothari&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
-
 ---
 
 #  Activity Graph
