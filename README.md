@@ -99,7 +99,7 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 
 | Project | Description |
 |----------|-------------|
-|  **Flux AI** | AI-powered chatbot with document upload, image understanding, streaming responses, authentication, and modern UI |
+|  <a href = "https://fluxai-chat.vercel.app/"> **Flux AI** </a> | AI-powered chatbot with document upload, image understanding, streaming responses, authentication, and modern UI |
 |  **Loan Analysis Dashboard** | Business Intelligence dashboard built using Power BI and SQL Server |
 |  **Blinkit Dashboard** | Interactive sales analytics dashboard using Power BI |
 |  **Country Comparison Dashboard** | Comparative dashboard analyzing development indicators across countries |
