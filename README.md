@@ -1,4 +1,9 @@
 <div align="center">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yashvskothari/yashvskothari/main/banner.gif" width="100%" alt="banner"/>
+</div>
+
+<br/>
 
 # Hi, I'm Yashvardhan Singh Kothari
 
