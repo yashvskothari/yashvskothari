@@ -164,7 +164,7 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/yashvskothari/yashvskothari/main/github-metrics.svg"/>
+![Metrics](https://raw.githubusercontent.com/yashvskothari/yashvskothari/main/github-metrics.svg)
 
 </p>
 
