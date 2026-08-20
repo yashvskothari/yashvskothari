@@ -107,7 +107,7 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 |  <a href = "https://fluxai-chat.vercel.app/"> **Flux AI** </a> | AI-powered chatbot with document upload, image understanding, streaming responses, authentication, and modern UI |
 |  **Loan Analysis Dashboard** | Business Intelligence dashboard built using Power BI and SQL Server |
 |  **Blinkit Dashboard** | Interactive sales analytics dashboard using Power BI |
-|  <a href = "https://eternal-bharat.vercel.app/"> **Eternal-Bharat </a> | An educational website exploring the warriors, kingdoms, battles, and heritage of Bharat. |
+|  <a href = "https://eternal-bharat.vercel.app/"> **Eternal-Bharat** </a> | An educational website exploring the warriors, kingdoms, battles, and heritage of Bharat. |
 
 ---
 
