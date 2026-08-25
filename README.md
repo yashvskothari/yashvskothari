@@ -128,7 +128,7 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 
 <p align="center">
 
-![GitHub Activity Graph](github-readme-activity-graph-vert-xi.vercel.app/graph?username=yashvskothari&theme=merko&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph-three-pi.vercel.app/graph?username=yashvskothari&theme=merko&hide_border=true)
 
 </p>
 
