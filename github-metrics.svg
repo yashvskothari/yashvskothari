@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 60 users
+                            Followed by 59 users
                         </div>
                     </section>
                     <section>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            368 Commits
+                            369 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="424.5783768046714" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="424.5783768046714" y="0" width="9.974421234016745" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="434.55279803868814" y="0" width="6.376508690467504" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="440.92930672915566" y="0" width="6.2735103195739015" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="447.2028170487295" y="0" width="6.069529297694398" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.2723463464239" y="0" width="4.273326204330299" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.54567255075415" y="0" width="2.0123275985900078" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.55800014934414" y="0" width="0.44199985065574665" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="424.55897098817667" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="424.55897098817667" y="0" width="9.994990142554188" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="434.55396113073084" y="0" width="6.376217245202544" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="440.9301783759334" y="0" width="6.273223581961506" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="447.20340195789487" y="0" width="6.069251883256464" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.27265384115134" y="0" width="4.273130887308346" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.5457847284597" y="0" width="2.012235622968453" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.5580203514281" y="0" width="0.4419796485718415" height="8" fill="#7e858d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -690,7 +690,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yashvskothari/CampusConnect</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CampusConnect — A full-stack student gig marketplace that connects students with part-time jobs, freelance opportunities, internships, and campus services through secure authentication, real-time applications, and a modern, responsive user experience.</div>
@@ -784,7 +784,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yashvskothari/sudoku-pro</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A premium Sudoku web application featuring a modern UI, intelligent gameplay, smooth animations, multiple difficulty levels, real-time number tracking, hints, notes mode, and responsive design built with React and TypeScript.</div>
@@ -846,7 +846,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Sept 2026, 02:40:04  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Sept 2026, 15:40:36  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
