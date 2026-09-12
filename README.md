@@ -105,7 +105,7 @@ I enjoy building modern web applications, AI-powered products, solving DSA probl
 | Project | Description |
 |----------|-------------|
 |  <a href = "https://fluxai-chat.vercel.app/"> **Flux AI** </a> | AI-powered chatbot with document upload, image understanding, streaming responses, authentication, and modern UI |
-|  <a href = "https://campus-connect-free.vercel.app/"> **GigVerse** | A student-focused platform for discovering and managing campus opportunities. |
+|  <a href = "https://gig-verse-free.vercel.app/"> **GigVerse** | A student-focused platform for discovering and managing campus opportunities. |
 |  <a href = "https://sudoku-yokozuna.vercel.app/"> **Sudoku Yokozuna** | A clean, interactive Sudoku game with multiple difficulty levels and smart gameplay features. |
 |  <a href = "https://eternal-bharat.vercel.app/"> **Eternal-Bharat** </a> | An educational website exploring the warriors, kingdoms, battles, and heritage of Bharat. |
 
